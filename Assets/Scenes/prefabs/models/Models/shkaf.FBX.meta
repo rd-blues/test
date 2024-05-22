@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: cdf0788fac8a6814a88a5755202b2836
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: room_books
+    100002: room_shkaf
+    100004: //RootNode
+    100006: door_L_left_bottom
+    100008: door_L_left_top
+    100010: door_L_right_bottom
+    100012: door_L_right_top
+    100014: door_M_left_bottom
+    100016: door_M_left_top
+    100018: door_M_right_bottom
+    100020: door_M_right_top
+    100022: door_R_left_bottom
+    100024: door_R_left_top
+    100026: door_R_right_bottom
+    100028: door_R_right_top
+    100030: shkaf
+    400000: room_books
+    400002: room_shkaf
+    400004: //RootNode
+    400006: door_L_left_bottom
+    400008: door_L_left_top
+    400010: door_L_right_bottom
+    400012: door_L_right_top
+    400014: door_M_left_bottom
+    400016: door_M_left_top
+    400018: door_M_right_bottom
+    400020: door_M_right_top
+    400022: door_R_left_bottom
+    400024: door_R_left_top
+    400026: door_R_right_bottom
+    400028: door_R_right_top
+    400030: shkaf
+    2300000: room_books
+    2300002: room_shkaf
+    2300004: door_L_left_bottom
+    2300006: door_L_left_top
+    2300008: door_L_right_bottom
+    2300010: door_L_right_top
+    2300012: door_M_left_bottom
+    2300014: door_M_left_top
+    2300016: door_M_right_bottom
+    2300018: door_M_right_top
+    2300020: door_R_left_bottom
+    2300022: door_R_left_top
+    2300024: door_R_right_bottom
+    2300026: door_R_right_top
+    3300000: room_books
+    3300002: room_shkaf
+    3300004: door_L_left_bottom
+    3300006: door_L_left_top
+    3300008: door_L_right_bottom
+    3300010: door_L_right_top
+    3300012: door_M_left_bottom
+    3300014: door_M_left_top
+    3300016: door_M_right_bottom
+    3300018: door_M_right_top
+    3300020: door_R_left_bottom
+    3300022: door_R_left_top
+    3300024: door_R_right_bottom
+    3300026: door_R_right_top
+    4300000: room_shkaf
+    4300002: room_books
+    4300004: door_L_left_top
+    4300006: door_L_right_top
+    4300008: door_L_right_bottom
+    4300010: door_L_left_bottom
+    4300012: door_R_right_top
+    4300014: door_R_left_top
+    4300016: door_R_right_bottom
+    4300018: door_R_left_bottom
+    4300020: door_M_right_top
+    4300022: door_M_left_top
+    4300024: door_M_right_bottom
+    4300026: door_M_left_bottom
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .25
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 

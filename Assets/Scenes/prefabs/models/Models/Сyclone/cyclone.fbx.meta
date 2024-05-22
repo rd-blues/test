@@ -1,0 +1,613 @@
+fileFormatVersion: 2
+guid: 88a18ea1f4c0f824e8df6d5c054efc27
+ModelImporter:
+  serializedVersion: 22103
+  internalIDToNameTable:
+  - first:
+      74: -8404094966283010344
+    second: Box002|Box002|Take 001|BaseLayer
+  - first:
+      74: 490383867211945515
+    second: Box002|Box017|Take 001|BaseLayer
+  - first:
+      74: -7167667131807367452
+    second: Box002|Box018|Take 001|BaseLayer
+  - first:
+      74: -4602024356313394294
+    second: Box002|Box019|Take 001|BaseLayer
+  - first:
+      74: 6294421267556551815
+    second: Box002|Box020|Take 001|BaseLayer
+  - first:
+      74: 7158815228035446212
+    second: Box002|Cylinder002|Take 001|BaseLayer
+  - first:
+      74: -4178275191044158559
+    second: Box002|Rectangle003|Take 001|BaseLayer
+  - first:
+      74: 324349647433098380
+    second: Box002|Rectangle004|Take 001|BaseLayer
+  - first:
+      74: 1634788873265186598
+    second: Box002|Rectangle005|Take 001|BaseLayer
+  - first:
+      74: -6970495541859305368
+    second: Box002|Top004|Take 001|BaseLayer
+  - first:
+      74: -776291374164398057
+    second: Cylinder002|Box002|Take 001|BaseLayer
+  - first:
+      74: -5516153914297086184
+    second: Cylinder002|Box017|Take 001|BaseLayer
+  - first:
+      74: 3284429724821748473
+    second: Cylinder002|Box018|Take 001|BaseLayer
+  - first:
+      74: -3672078181611185917
+    second: Cylinder002|Box019|Take 001|BaseLayer
+  - first:
+      74: 998352617397699548
+    second: Cylinder002|Box020|Take 001|BaseLayer
+  - first:
+      74: 5108061783345847934
+    second: Cylinder002|Cylinder002|Take 001|BaseLayer
+  - first:
+      74: 4455263206870238509
+    second: Cylinder002|Rectangle003|Take 001|BaseLayer
+  - first:
+      74: 7904105791873551575
+    second: Cylinder002|Rectangle004|Take 001|BaseLayer
+  - first:
+      74: 2315381659522931654
+    second: Cylinder002|Rectangle005|Take 001|BaseLayer
+  - first:
+      74: -486747769965994931
+    second: Cylinder002|Top004|Take 001|BaseLayer
+  - first:
+      74: -7199310847306084181
+    second: Rectangle003|Box002|Take 001|BaseLayer
+  - first:
+      74: 451440739680062450
+    second: Rectangle003|Box017|Take 001|BaseLayer
+  - first:
+      74: 8988102345155002623
+    second: Rectangle003|Box018|Take 001|BaseLayer
+  - first:
+      74: -548929779325434142
+    second: Rectangle003|Box019|Take 001|BaseLayer
+  - first:
+      74: -8881589296589357067
+    second: Rectangle003|Box020|Take 001|BaseLayer
+  - first:
+      74: -921612325598195819
+    second: Rectangle003|Cylinder002|Take 001|BaseLayer
+  - first:
+      74: 6810268584693310064
+    second: Rectangle003|Rectangle003|Take 001|BaseLayer
+  - first:
+      74: -6345857279789651605
+    second: Rectangle003|Rectangle004|Take 001|BaseLayer
+  - first:
+      74: -8106269764768952439
+    second: Rectangle003|Rectangle005|Take 001|BaseLayer
+  - first:
+      74: 4785446189838937561
+    second: Rectangle003|Top004|Take 001|BaseLayer
+  - first:
+      74: -7540012269329740452
+    second: Rectangle004|Box002|Take 001|BaseLayer
+  - first:
+      74: -7134772339239402318
+    second: Rectangle004|Box017|Take 001|BaseLayer
+  - first:
+      74: 8460360540638473892
+    second: Rectangle004|Box018|Take 001|BaseLayer
+  - first:
+      74: -5604700280700896460
+    second: Rectangle004|Box019|Take 001|BaseLayer
+  - first:
+      74: -7964057432628867705
+    second: Rectangle004|Box020|Take 001|BaseLayer
+  - first:
+      74: 4771148821230299372
+    second: Rectangle004|Cylinder002|Take 001|BaseLayer
+  - first:
+      74: -3667683773995451423
+    second: Rectangle004|Rectangle003|Take 001|BaseLayer
+  - first:
+      74: -5658182130945229881
+    second: Rectangle004|Rectangle004|Take 001|BaseLayer
+  - first:
+      74: -6034542622387725414
+    second: Rectangle004|Rectangle005|Take 001|BaseLayer
+  - first:
+      74: 8290736517188640392
+    second: Rectangle004|Top004|Take 001|BaseLayer
+  - first:
+      74: 8894622860718312700
+    second: Rectangle005|Box002|Take 001|BaseLayer
+  - first:
+      74: -2243331181102800789
+    second: Rectangle005|Box017|Take 001|BaseLayer
+  - first:
+      74: 5616817471793600881
+    second: Rectangle005|Box018|Take 001|BaseLayer
+  - first:
+      74: 8293942414776590358
+    second: Rectangle005|Box019|Take 001|BaseLayer
+  - first:
+      74: 6231337996736517204
+    second: Rectangle005|Box020|Take 001|BaseLayer
+  - first:
+      74: 485311980378458857
+    second: Rectangle005|Cylinder002|Take 001|BaseLayer
+  - first:
+      74: -3841522039401982430
+    second: Rectangle005|Rectangle003|Take 001|BaseLayer
+  - first:
+      74: 7719851515932890127
+    second: Rectangle005|Rectangle004|Take 001|BaseLayer
+  - first:
+      74: -1779375563106166298
+    second: Rectangle005|Rectangle005|Take 001|BaseLayer
+  - first:
+      74: -8753723240399967320
+    second: Rectangle005|Top004|Take 001|BaseLayer
+  - first:
+      74: 8466497055676585170
+    second: Top004|Box002|Take 001|BaseLayer
+  - first:
+      74: -7568818200585482122
+    second: Top004|Box017|Take 001|BaseLayer
+  - first:
+      74: 6693482995123689625
+    second: Top004|Box018|Take 001|BaseLayer
+  - first:
+      74: 7232846229055260323
+    second: Top004|Box019|Take 001|BaseLayer
+  - first:
+      74: -3368313203963527536
+    second: Top004|Box020|Take 001|BaseLayer
+  - first:
+      74: 2671899652726811170
+    second: Top004|Cylinder002|Take 001|BaseLayer
+  - first:
+      74: 7040142235857754105
+    second: Top004|Rectangle003|Take 001|BaseLayer
+  - first:
+      74: -615136964668111584
+    second: Top004|Rectangle004|Take 001|BaseLayer
+  - first:
+      74: -2601755015385619254
+    second: Top004|Rectangle005|Take 001|BaseLayer
+  - first:
+      74: 541029393288414169
+    second: Top004|Top004|Take 001|BaseLayer
+  - first:
+      74: -5443296534039053917
+    second: Box017|Box002|Take 001|BaseLayer
+  - first:
+      74: 5860699104134611780
+    second: Box017|Box017|Take 001|BaseLayer
+  - first:
+      74: -6448712983106767899
+    second: Box017|Box018|Take 001|BaseLayer
+  - first:
+      74: -1631155208152199603
+    second: Box017|Box019|Take 001|BaseLayer
+  - first:
+      74: -6032425485117836376
+    second: Box017|Box020|Take 001|BaseLayer
+  - first:
+      74: 2549483575512073638
+    second: Box017|Cylinder002|Take 001|BaseLayer
+  - first:
+      74: 6621678783304961191
+    second: Box017|Rectangle003|Take 001|BaseLayer
+  - first:
+      74: 1182162956956342005
+    second: Box017|Rectangle004|Take 001|BaseLayer
+  - first:
+      74: 5841350081309953827
+    second: Box017|Rectangle005|Take 001|BaseLayer
+  - first:
+      74: 466744930801677068
+    second: Box017|Top004|Take 001|BaseLayer
+  - first:
+      74: -7612286168526906562
+    second: Box018|Box002|Take 001|BaseLayer
+  - first:
+      74: 420330468317896610
+    second: Box018|Box017|Take 001|BaseLayer
+  - first:
+      74: -5232569989235785880
+    second: Box018|Box018|Take 001|BaseLayer
+  - first:
+      74: -8453553417015400163
+    second: Box018|Box019|Take 001|BaseLayer
+  - first:
+      74: -4784329079924359673
+    second: Box018|Box020|Take 001|BaseLayer
+  - first:
+      74: 3590203307128763721
+    second: Box018|Cylinder002|Take 001|BaseLayer
+  - first:
+      74: 4271282136333561813
+    second: Box018|Rectangle003|Take 001|BaseLayer
+  - first:
+      74: 2656257949304522276
+    second: Box018|Rectangle004|Take 001|BaseLayer
+  - first:
+      74: 9000707982887350189
+    second: Box018|Rectangle005|Take 001|BaseLayer
+  - first:
+      74: 1250883878593865544
+    second: Box018|Top004|Take 001|BaseLayer
+  - first:
+      74: -1995635254676850587
+    second: Box019|Box002|Take 001|BaseLayer
+  - first:
+      74: 2260096499653671328
+    second: Box019|Box017|Take 001|BaseLayer
+  - first:
+      74: 606762255174214906
+    second: Box019|Box018|Take 001|BaseLayer
+  - first:
+      74: -2787877920883146775
+    second: Box019|Box019|Take 001|BaseLayer
+  - first:
+      74: -1177174345629709966
+    second: Box019|Box020|Take 001|BaseLayer
+  - first:
+      74: -5121248762283833278
+    second: Box019|Cylinder002|Take 001|BaseLayer
+  - first:
+      74: -2367504019983092363
+    second: Box019|Rectangle003|Take 001|BaseLayer
+  - first:
+      74: -947832189879915605
+    second: Box019|Rectangle004|Take 001|BaseLayer
+  - first:
+      74: 3306899900562949514
+    second: Box019|Rectangle005|Take 001|BaseLayer
+  - first:
+      74: -7362485300468595153
+    second: Box019|Top004|Take 001|BaseLayer
+  - first:
+      74: -137426640219053195
+    second: Box020|Box002|Take 001|BaseLayer
+  - first:
+      74: 4703575408578124825
+    second: Box020|Box017|Take 001|BaseLayer
+  - first:
+      74: 1604492111241718231
+    second: Box020|Box018|Take 001|BaseLayer
+  - first:
+      74: -6335837961523602456
+    second: Box020|Box019|Take 001|BaseLayer
+  - first:
+      74: 6603837459945334111
+    second: Box020|Box020|Take 001|BaseLayer
+  - first:
+      74: 1264746818057487458
+    second: Box020|Cylinder002|Take 001|BaseLayer
+  - first:
+      74: -7360590411339060786
+    second: Box020|Rectangle003|Take 001|BaseLayer
+  - first:
+      74: -8603611717392812645
+    second: Box020|Rectangle004|Take 001|BaseLayer
+  - first:
+      74: -6816916784925218863
+    second: Box020|Rectangle005|Take 001|BaseLayer
+  - first:
+      74: 6928820914274962052
+    second: Box020|Top004|Take 001|BaseLayer
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default
+    second: {fileID: 2100000, guid: b79008fc100a9d04786d35f9ebdd875e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "01 - D\u0440\u0435\u0437\u0438\u043D\u0430"
+    second: {fileID: 2100000, guid: 79521642f5b9a4c4eaabcfd8d3340bce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02 - Default
+    second: {fileID: 2100000, guid: 062bf0fddf26e0f4198ae72f318a8a29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03 - Default
+    second: {fileID: 2100000, guid: 53c6fe4fa83b5bb44924f48c1effb7b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 04 -
+    second: {fileID: 2100000, guid: 43c1da06e4b7ad04e832166b658d5535, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 04 - Default
+    second: {fileID: 2100000, guid: 2cd99c199689ea14fada827ad3e7b4bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 06 - Default
+    second: {fileID: 2100000, guid: d5773e1038020a745ad6051895a4f57b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 06 - Default.001
+    second: {fileID: 2100000, guid: 87d1aed76c6d2984eb3339a9fff89584, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 15 - Glossy Plastic
+    second: {fileID: 2100000, guid: 360d7deeba2abb24b908fab35a1e2bda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 15 - Glossy_
+    second: {fileID: 2100000, guid: 4a52c8cf60078c74486c0f06c8bf0a7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 17 - Default
+    second: {fileID: 2100000, guid: 4b148e3fb6232234e8961125e547556f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 18 - Default
+    second: {fileID: 2100000, guid: 3929de59fc8b3eb43bb5cb97711818a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 19 - Defaul0
+    second: {fileID: 2100000, guid: e3a2bdd1c6406ce4ea90576f0af1983c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 20 - Default
+    second: {fileID: 2100000, guid: 89375ced2bce531438612f27ea2819a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 21 - Default
+    second: {fileID: 2100000, guid: 0a72801b65a3dd84aa40aa7771dc80da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 21 - Default.001
+    second: {fileID: 2100000, guid: 75ca010ea19c8764ab9abd5c32e95a8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 22 - Default
+    second: {fileID: 2100000, guid: 590e9d4ddbd59a241bc5f8e8223b36e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 23 - Default
+    second: {fileID: 2100000, guid: c38c466b467f7774497450f5e6672154, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 24 - Default
+    second: {fileID: 2100000, guid: 4687cf4dd9ffa0844b288f91261aad1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ceramic
+    second: {fileID: 2100000, guid: 9064ff141f76f9c459371c9ef8fa065d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #11
+    second: {fileID: 2100000, guid: 292930a2e6080e14887348a74b2d5e12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #2
+    second: {fileID: 2100000, guid: c1986e3fb2e73b3439c3867cbbb70f5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal
+    second: {fileID: 2100000, guid: 799fd01654690d949a441c02eca95554, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scales_main
+    second: {fileID: 2100000, guid: c9cf7273fc3a4124b9e58b4465d602f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solid Glass
+    second: {fileID: 2100000, guid: 7ffef17e826e45d4896febe58628f32e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall Paint
+    second: {fileID: 2100000, guid: e054a98885a34a34b8b245d33d25a2c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water
+    second: {fileID: 2100000, guid: 5da76033d28a2b94e9ad1ccff65434f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: manometr_black
+    second: {fileID: 2100000, guid: 4d4c61c0b7efae24982c6d1f3597f1bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zabor
+    second: {fileID: 2100000, guid: 8ac6c027f78c31c45bc850d97ebb7991, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u043F\u043E\u0440\u043E\u0448\u043E\u043A"
+    second: {fileID: 2100000, guid: 086c2439ca1c9084d93c3729f60e61e8, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 029054c5d5b543c130c7041b64f86d81
+    second: {fileID: 2800000, guid: 92586e7ed770ab445abc1a1a76d902d9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1
+    second: {fileID: 2800000, guid: 786035f588e55e54dac5db946b435d0b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 211139-a4d3cff11a127df8a2263612ce7aa61a
+    second: {fileID: 2800000, guid: 4a8315484f1ef7744841dfd57c6d5603, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: molotok_goluboy
+    second: {fileID: 2800000, guid: 8afd0d22299229249b4b014a022c3f38, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: molotok_goluboy_normalMap
+    second: {fileID: 2800000, guid: 30b9f8d826535c547a4b86d09061e410, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u0428\u041A\u0410\u041B\u0410"
+    second: {fileID: 2800000, guid: f31b56646dda18b43bf695caebe96cc2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u0431\u0430\u043C\u043F"
+    second: {fileID: 2800000, guid: ac9c29aa4835ec0488c4568fa2613816, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u043D\u0430\u043A\u043B\u0435\u0439\u043A\u0430"
+    second: {fileID: 2800000, guid: fa346b5d754ff1c439dc2f3ce3c2307b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u043D\u043E\u043C\u0435\u0440 01"
+    second: {fileID: 2800000, guid: 2f636a5d34b4a4d4eac071d29212a362, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u0441\u0435\u0442\u044C"
+    second: {fileID: 2800000, guid: 3d6c75501b666434c9fd324400494a3a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u0446\u0438\u043A\u043B\u043E2"
+    second: {fileID: 2800000, guid: 46e50d42ddeccb646aa6382a0d950eb4, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

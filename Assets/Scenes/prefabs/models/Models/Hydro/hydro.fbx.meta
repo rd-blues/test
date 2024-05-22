@@ -1,0 +1,278 @@
+fileFormatVersion: 2
+guid: 89bdaed037f533648ae3f2bae2344c55
+ModelImporter:
+  serializedVersion: 22103
+  internalIDToNameTable:
+  - first:
+      74: -7568818200585482122
+    second: Top004|Box017|Take 001|BaseLayer
+  - first:
+      74: 6693482995123689625
+    second: Top004|Box018|Take 001|BaseLayer
+  - first:
+      74: 7232846229055260323
+    second: Top004|Box019|Take 001|BaseLayer
+  - first:
+      74: -3368313203963527536
+    second: Top004|Box020|Take 001|BaseLayer
+  - first:
+      74: 541029393288414169
+    second: Top004|Top004|Take 001|BaseLayer
+  - first:
+      74: 5860699104134611780
+    second: Box017|Box017|Take 001|BaseLayer
+  - first:
+      74: -6448712983106767899
+    second: Box017|Box018|Take 001|BaseLayer
+  - first:
+      74: -1631155208152199603
+    second: Box017|Box019|Take 001|BaseLayer
+  - first:
+      74: -6032425485117836376
+    second: Box017|Box020|Take 001|BaseLayer
+  - first:
+      74: 466744930801677068
+    second: Box017|Top004|Take 001|BaseLayer
+  - first:
+      74: 420330468317896610
+    second: Box018|Box017|Take 001|BaseLayer
+  - first:
+      74: -5232569989235785880
+    second: Box018|Box018|Take 001|BaseLayer
+  - first:
+      74: -8453553417015400163
+    second: Box018|Box019|Take 001|BaseLayer
+  - first:
+      74: -4784329079924359673
+    second: Box018|Box020|Take 001|BaseLayer
+  - first:
+      74: 1250883878593865544
+    second: Box018|Top004|Take 001|BaseLayer
+  - first:
+      74: 2260096499653671328
+    second: Box019|Box017|Take 001|BaseLayer
+  - first:
+      74: 606762255174214906
+    second: Box019|Box018|Take 001|BaseLayer
+  - first:
+      74: -2787877920883146775
+    second: Box019|Box019|Take 001|BaseLayer
+  - first:
+      74: -1177174345629709966
+    second: Box019|Box020|Take 001|BaseLayer
+  - first:
+      74: -7362485300468595153
+    second: Box019|Top004|Take 001|BaseLayer
+  - first:
+      74: 4703575408578124825
+    second: Box020|Box017|Take 001|BaseLayer
+  - first:
+      74: 1604492111241718231
+    second: Box020|Box018|Take 001|BaseLayer
+  - first:
+      74: -6335837961523602456
+    second: Box020|Box019|Take 001|BaseLayer
+  - first:
+      74: 6603837459945334111
+    second: Box020|Box020|Take 001|BaseLayer
+  - first:
+      74: 6928820914274962052
+    second: Box020|Top004|Take 001|BaseLayer
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default
+    second: {fileID: 2100000, guid: f0519fd05686d614697da987111550c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "01 - D\u0440\u0435\u0437\u0438\u043D\u0430"
+    second: {fileID: 2100000, guid: c7b1e300df026e14e8a0b10de6d076c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 04 -
+    second: {fileID: 2100000, guid: fc0e8d4b546bbcd4fbc1718331803d53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 04 - Default
+    second: {fileID: 2100000, guid: 224484ad41f41b64086414ac4b9eb790, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 06 - Default
+    second: {fileID: 2100000, guid: 376a0871270304d4cbde23d31b59c8bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 18 - Default
+    second: {fileID: 2100000, guid: b70a0114a911acb43941c5f661ce5b96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ceramic
+    second: {fileID: 2100000, guid: 1dd5b20e932545f4892d9ecc0acd0b18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #2
+    second: {fileID: 2100000, guid: b594d5e6763960348a13257a3aa7cf66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal
+    second: {fileID: 2100000, guid: 70bc3a8521e32da4e9e75f494a871b4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solid Glass
+    second: {fileID: 2100000, guid: ef2958f40f9388148ba667d3d05facaa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zabor.001
+    second: {fileID: 2100000, guid: 12c6b9474ec85f240968e78104e933fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B"
+    second: {fileID: 2100000, guid: e1116f27ce776414fa8109dcc0ff1bd1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u043F\u043E\u0440\u043E\u0448\u043E\u043A"
+    second: {fileID: 2100000, guid: f96c0de6f3e82dc41a56c3659b6be9b5, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 211139-a4d3cff11a127df8a2263612ce7aa61a
+    second: {fileID: 2800000, guid: 846d3167ac0cf55469529e4e40bf0676, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: molotok_goluboy
+    second: {fileID: 2800000, guid: 8391c0c8fd31cf14789336d0a20ff8ce, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u0431\u0430\u043C\u043F"
+    second: {fileID: 2800000, guid: f2e394a7f2026cd459e81cee52b7f631, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u0433\u0438\u0434\u0440\u043E"
+    second: {fileID: 2800000, guid: 8984956eb71df964092a7e573d7586ad, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u043D\u043E\u043C\u0435\u0440 01"
+    second: {fileID: 2800000, guid: 6e254c6987308d840b85d6a8eaf886e8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u0448\u043A\u0430\u043B"
+    second: {fileID: 2800000, guid: e553ef1c81e6cef42ba3247b8b078c3f, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
